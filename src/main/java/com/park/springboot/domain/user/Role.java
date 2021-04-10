@@ -3,6 +3,9 @@ package com.park.springboot.domain.user;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
+/**
+ * 계정 enum
+ */
 @Getter
 @RequiredArgsConstructor
 public enum Role {
